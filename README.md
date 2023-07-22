@@ -4,7 +4,7 @@
 
 ## :triangular_flag_on_post: About me
 
-- 🌱 I’m currently learning `Python` and `Javascript`...
+- 🌱 I’m currently learning `Python`, `Java`, `Javascript` and more...
 
 ## :bar_chart: My Stats
 
