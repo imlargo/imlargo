@@ -2,9 +2,18 @@
    Hi, im largo!</b>
 </h1>
 
-## :triangular_flag_on_post: About me
+## About me 🌱
+
+
+I'm Ingrid, Full-stack developer with a passion for backend development and 2 years of experience in the field.
 
 - 🌱 I’m currently learning `Python`, `Java`, `Javascript` and more...
+
+☁️ Google Apps Script
+
+🔧 Let's collaborate to create amazing projects together!
+
+📫 Reach out to me on Linkedin
 
 ## Skills
 <p align="center">
