@@ -26,6 +26,9 @@ Hi, i'm a student!
 ## :bar_chart: My Stats
 
 
+<p align="center">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact">
+ </p>
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=imlargo&theme=tokyonight_duo&hide_border=true"
