@@ -4,7 +4,7 @@
 
 ## About me 🌱
 
-Hi,i'm a student!
+Hi, i'm a student!
 
 - 🌱 I’m currently learning `Python`, `Java`, `Javascript` and more...
 
