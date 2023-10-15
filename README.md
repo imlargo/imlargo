@@ -6,17 +6,16 @@
 
 - 🌱 I’m currently learning `Python`, `Java`, `Javascript` and more...
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## Skills
 <p align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,scala,git,github" />
-    <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,js,java,py,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
 
   </a>
 </p>
-<br>
 
 
 ## :bar_chart: My Stats
@@ -24,7 +23,30 @@
 <p align="center">
    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact">
  </p>
- 
+
+
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=imlargo&theme=tokyonight_duo&hide_border=true"
+</p>
+
+
+<h2 align="center">You can reach me by:</h2>
+    <p align="center">  
+      <a href="linkedin.com/in/imlargo/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
+      </a>
+        <a href="instagram.com/im_largo" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="MARV" height="30">
+      </a>
+    </p>
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+you!&hearts;"></a>
+
+</p>
+
+  
+
 <!---
 imlargo/imlargo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
