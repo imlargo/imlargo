@@ -27,7 +27,7 @@ Hi, i'm a student!
 
 
 <p align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact&langs_count=8">
  </p>
 
 <p align="center">
