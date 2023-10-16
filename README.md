@@ -9,7 +9,7 @@ Just a student!
 
 - Currently learning 🌱
 - JavaScript, Python, Java.
-- Knowledge in Web Scraping, Web Development, Google AppScript, Google AppSheet, Automation. 
+- Knowledge in Web Scraping, Web Development, Software Development, Google AppScript, Google AppSheet, Automation. 
   
 ☁️ Google Apps Script
 
