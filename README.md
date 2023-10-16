@@ -5,7 +5,7 @@
 
 ## About me
 
-Hi, i'm a student!
+Just a student!
 
 - Currently learning 🌱
 - JavaScript, Python, Java.
