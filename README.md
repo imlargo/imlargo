@@ -7,8 +7,9 @@
 
 Hi, i'm a student!
 
-- 🌱 I’m currently learning `Python`, `Java`, `Javascript` and more...
-
+- 🌱 I’m currently learning `Python`, `Java`, `Javascript`, `HTML` and more...
+- Knowledge in Web Scraping, Automation, Google AppScript, Google AppSheet, Web Development, JavaScript, Python. 
+  
 ☁️ Google Apps Script
 
 📫 Reach out to me on Linkedin
