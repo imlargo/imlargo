@@ -30,7 +30,7 @@ Just a student!
 
 
 <p align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=9">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=10">
  </p>
 
 <p align="center">
