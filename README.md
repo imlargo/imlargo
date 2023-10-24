@@ -10,10 +10,6 @@ Just a student!
 - Currently learning 🌱
 - JavaScript, Python, Java.
 - Knowledge in Web Scraping, Web Development, Google AppScript, Google AppSheet, Automation. 
-  
-☁️ Google Apps Script
-
-📫 Reach out to me on Linkedin
 
 ## Skills
 <p align="center">
@@ -29,13 +25,6 @@ Just a student!
 ## :bar_chart: My Stats
 
 
-<p align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=10">
- </p>
-
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=imlargo&theme=tokyonight_duo&hide_border=true"
-</p>
 
 
 <h2 align="center">You can reach me by:</h2>
