@@ -39,7 +39,7 @@ Just a student!
       <a href="https://www.linkedin.com/in/imlargo/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
       </a>
-        <a href="https://instagram.com/im_largo" target="_blank">
+        <a href="https://instagram.com/imlargo" target="_blank">
         <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="MARV" height="30">
       </a>
     </p>
