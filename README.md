@@ -26,7 +26,7 @@ Just a student!
 
 
 <p align="center">
-   <img  align="center"  src="https://github-readme-stats-self-ten.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=10">
+   <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">
  </p>
 
 <p align="center">
