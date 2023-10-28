@@ -16,7 +16,7 @@ Just a student!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,nodejs,java,py,gcp,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,nodejs,gcp,git,github,vscode&theme=dark" />
 
   </a>
 </p>
