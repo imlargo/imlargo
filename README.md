@@ -30,7 +30,7 @@ Just a student!
  </p>
 
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=imlargo&theme=tokyonight_duo&hide_border=false"
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imlargo&theme=tokyonight_duo&hide_border=true"
 </p>
 
 
