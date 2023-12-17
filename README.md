@@ -11,11 +11,11 @@ Just a student!
 - JavaScript, Python, Java.
 - Knowledge in Web Scraping, Web Development, Google AppScript, Google AppSheet, Automation. 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,html,bootstrap,css,nodejs,gcp,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,bootstrap,nodejs,gcp,git,github,vscode&theme=dark" />
   </a>
 </p>
 
