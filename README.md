@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=BC70FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20im%20largo!;"></a>
 </p>
 
-## 👩‍💻 About me
+## About me
 
 Just a student with a passion for coding and learning new things.
 
@@ -21,7 +21,7 @@ Just a student with a passion for coding and learning new things.
   </a>
 </p>
 
-## :bar_chart: My Stats
+## 👩‍💻 My Stats
 
 <p align="center">
    <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">
