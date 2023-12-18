@@ -6,10 +6,14 @@
 
 Just a student with a passion for coding, learning new things.
 
-🌱 Currently learning 
+🌱 Currently learning.
+
 ⚡️ JavaScript, Python, Java.
+
 🧠 Knowledge in web scraping, web development, google appscript, automation.
+
 👩‍💻 I'm currently working on some personal projects.
+
 🎧 Also i love to listen to music :).
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
