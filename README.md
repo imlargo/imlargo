@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About me
 
-Just a student with a passion for coding, learning new things.
+Just a student with a passion for coding and learning new things.
 
 - 🌱 Currently learning.
 - ⚡️ JavaScript, Python, Java.
