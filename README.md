@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=BC70FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20im%20largo!;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=BC70FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20im%20largo&hearts;"></a>
 </p>
 
 ## About me
@@ -39,10 +39,6 @@ Just a student with a passion for coding and learning new things.
     <a href="https://instagram.com/imlargo" target="_blank">
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="MARV" height="30">
   </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=BC70FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+you!&hearts;"></a>
 </p>
 
 <!---
