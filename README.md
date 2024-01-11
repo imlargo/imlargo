@@ -16,7 +16,7 @@ Just a student with a passion for coding and learning new things.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,bootstrap,nodejs,gcp,latex,md,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,bootstrap,nodejs,scala,firebase,latex,md,git,githubactions,github,vscode&theme=dark" />
   </a>
 </p>
 
