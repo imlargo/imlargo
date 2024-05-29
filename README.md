@@ -6,11 +6,16 @@
 
 Just a student with a passion for coding and learning new things.
 
-- 🌱 Currently learning.
-- ⚡️ JavaScript, Python, Java.
-- 🧠 Knowledge in web scraping, web development, google appscript, automation.
-- 👩‍💻 I'm currently working on some personal projects.
-- 🎧 Also, i love listening to music.
+👩‍💻 Soy un apasionado desarrollador de software enfocado en el desarrollo web. Cuento con experiencia en desarrollo frontend, backend, web scraping y automatización.
+
+🌱 He participado en diversos proyectos de software tanto externos como personales, los cuales me han permitido aprender cosas nuevas y poner en práctica mis habilidades y conocimientos.
+
+- JavaScript, Python, Java y actualmente aprendiendo Golang.
+- SvelteKit, Astro
+- HTML, CSS, SCSS, Tailwind, Bootstrap
+- NodeJs, Firebase, MongoDB, Google Apps Scripts
+
+🎧 Me encanta escuchar música.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
 
