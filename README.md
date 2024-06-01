@@ -31,17 +31,10 @@ Just a student with a passion for coding and learning new things.
    <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=32">
  </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imlargo&theme=tokyonight_duo&hide_border=true"
-</p>
-
 <h2 align="center">You can reach me by:</h2>
 <p align="center">  
   <a href="https://www.linkedin.com/in/imlargo/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
-  </a>
-    <a href="https://instagram.com/imlargo" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="MARV" height="30">
   </a>
 </p>
 
