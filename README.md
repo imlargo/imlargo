@@ -8,7 +8,7 @@ Just a student with a passion for coding and learning new things.
 
 👩‍💻 Soy un apasionado desarrollador de software enfocado en el desarrollo web. Cuento con experiencia en desarrollo frontend, backend, web scraping y automatización.
 
-🌱 He participado en diversos proyectos de software tanto externos como personales, los cuales me han permitido aprender cosas nuevas y poner en práctica mis habilidades y conocimientos.
+🌱 He trabajado en diversos proyectos de software, tanto en entornos laborales como personales, lo que me ha permitido adquirir nuevos conocimientos y poner en práctica mis habilidades.
 
 - JavaScript, Python, Java y actualmente aprendiendo Golang.
 - SvelteKit, Astro
