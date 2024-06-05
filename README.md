@@ -10,7 +10,7 @@ Just a student with a passion for coding and learning new things.
 
 🌱 He trabajado en diversos proyectos de software, tanto en entornos laborales como personales, lo que me ha permitido adquirir nuevos conocimientos y poner en práctica mis habilidades.
 
-- JavaScript, Python, Java y actualmente aprendiendo Golang.
+- JavaScript, Python, Java, Golang.
 - SvelteKit, Astro
 - HTML, CSS, SCSS, Tailwind, Bootstrap
 - NodeJs, Firebase, MongoDB, Google Apps Scripts
