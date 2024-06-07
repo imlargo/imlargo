@@ -12,11 +12,6 @@ Just a student with a passion for coding and learning new things.
 
 ✨ Entre mis logros destaca la optimización de procesos en la Universidad Nacional de Colombia a través de soluciones de software, así como la creación de proyectos personales que han tenido un impacto positivo significativo en la comunidad universitaria.
 
-- JavaScript, Python, Golang, Java.
-- SvelteKit, Astro
-- HTML, CSS, SCSS, Tailwind, Bootstrap
-- NodeJs, Firebase, MongoDB, Google Apps Scripts
-
 🎧 Me encanta escuchar música.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
