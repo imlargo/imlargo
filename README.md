@@ -6,11 +6,13 @@
 
 Just a student with a passion for coding and learning new things.
 
-👩‍💻 Soy un apasionado desarrollador de software enfocado en el desarrollo web. Cuento con experiencia en desarrollo frontend, backend, web scraping y automatización.
+👩‍💻 Soy un apasionado desarrollador de software con experiencia en frontend, backend, web scraping y automatización. Enfocado en el desarrollo web. 
 
 🌱 He trabajado en diversos proyectos de software, tanto en entornos laborales como personales, lo que me ha permitido adquirir nuevos conocimientos y poner en práctica mis habilidades.
 
-- JavaScript, Python, Java, Golang.
+✨ Entre mis logros destaca la optimización de procesos en la Universidad Nacional de Colombia a través de soluciones de software, así como la creación de proyectos personales que han tenido un impacto positivo significativo en la comunidad universitaria.
+
+- JavaScript, Python, Golang, Java.
 - SvelteKit, Astro
 - HTML, CSS, SCSS, Tailwind, Bootstrap
 - NodeJs, Firebase, MongoDB, Google Apps Scripts
