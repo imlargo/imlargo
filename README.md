@@ -18,7 +18,7 @@ Just a student with a passion for coding and learning new things.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,js,py,java,svelte,vue,nuxtjs,astro,html,css,sass,bootstrap,tailwind,nodejs,firebase,mongodb,supabase,figma,latex,md,githubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=svelte,go,ts,js,py,java,vue,nuxtjs,astro,html,css,sass,bootstrap,tailwind,nodejs,firebase,mongodb,supabase,figma,latex,md,githubactions&theme=dark" />
   </a>
 </p>
 
