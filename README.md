@@ -1,97 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=BC70FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Go+%2F+TypeScript+%2F+Svelte+%2F+Vue;Building+systems+that+ship+and+last." alt="Typing SVG" />
+
+# Juan Carlos Largo
+
+**Senior Software Engineer** · Go · TypeScript · Svelte
+
+Founder at [Kora Studio](https://kora.imlargo.dev) · Medellín, Colombia
+
+[![Website](https://img.shields.io/badge/imlargo.dev-0d0d0d?style=for-the-badge)](https://imlargo.dev)
+[![Kora Studio](https://img.shields.io/badge/Kora_Studio-0d0d0d?style=for-the-badge)](https://kora.imlargo.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imlargo)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jclargob@gmail.com)
+
 </div>
 
 <br/>
+
+I build systems that go to production and stay there. **20+ shipped, all still running.**
+
+Most of what I publish here comes from that: patterns pulled out of real systems, cleaned up, and put back into the ones that needed them. I don't design abstractions in isolation. If a library here exists, it's because I needed it three times first.
+
+I care about small surfaces, sane defaults, and code that reads well six months later. Go on the backend, Svelte on the frontend, and a strong preference for owning the whole thing rather than a slice of it.
+
+Founder at **[Kora Studio](https://kora.imlargo.dev)**, where I build custom software for companies across Colombia.
+
+<br/>
+
+## What I'm building
+
+**[medusa](https://github.com/imlargo/medusa)** 🪼 · Batteries-included Go framework for modern backends
+**[coral](https://github.com/imlargo/coral)** 🪸 · Svelte component layer on top of shadcn, composed and ready to use
+**[air](https://github.com/imlargo/air)** · Tiny, modern HTTP client for TypeScript, built on native fetch
+**[sse](https://github.com/imlargo/sse)** · Server-Sent Events for Go
+**[gleam-webpush](https://github.com/imlargo/gleam-webpush)** · Web Push with encryption and VAPID for the Gleam ecosystem
+**[pegaso](https://pegaso.imlargo.dev)** · Course scheduling platform, 6,200+ users through organic adoption
+
+Also contributing to [shadcn/ui](https://ui.shadcn.com) (Svelte and Vue ports), [Gin](https://github.com/gin-gonic/gin), and Svelte ecosystem libraries. Contributor to ODPI Observatorio, a human rights data platform cited in UN Special Rapporteur reports.
+
+<br/>
+
+## Stack
 
 <div align="center">
-  <a href="https://imlargo.dev">
-    <img src="https://img.shields.io/badge/🌐_imlargo.dev-BC70FF?style=flat-square&labelColor=1a1a2e&color=BC70FF" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/imlargo">
-    <img src="https://img.shields.io/badge/LinkedIn-imlargo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:jclargob@gmail.com">
-    <img src="https://img.shields.io/badge/jclargob@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_to_Remote-22c55e?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=go,ts,svelte,vue,tailwind,postgres,redis,docker,aws,githubactions,nodejs,python&theme=dark&perline=12" alt="Tech stack" />
 </div>
-
-<br/>
-
----
-
-## About Me
-
-Senior software engineer with production ownership across Go distributed systems, Node.js backends, TypeScript/Vue/Svelte frontends, and AWS infrastructure. I specialize in shipping complex systems end-to-end — from architecture to long-term operation — and in raising the engineering bar through standards, mentorship, and a bias for building things that last.
-
-- 🏢 **Lead Frontend Engineer** @ [Unergy](https://unergy.co) — solar energy platform, leading a team of 4+ engineers
-- 🚀 Previously **co-founded a SaaS** (Butter) and scaled it to **1,000+ active users** internationally as the sole technical owner
-- 🏛️ Built **4+ critical systems** for Universidad Nacional de Colombia, including a platform that cut a 2-week admin cycle to **20 minutes**
-- 🪼 Building [**Medusa**](https://github.com/imlargo/medusa) — open-source Go framework, extracted from real production patterns
-- 🎓 B.Sc. Software Engineering, Universidad Nacional de Colombia
-- 📍 Medellín, Colombia · Open to remote
-
----
-
-## Open Source Contributions
-
-- Contributed new functionality and components to **[shadcn/ui](https://ui.shadcn.com/)** (Svelte + Vue ports)
-- Contributed to Svelte ecosystem libraries and **[Gin](https://github.com/gin-gonic/gin)** (Go web framework)
-- Contributor to **ODPI Observatorio** — a human rights data platform whose outputs are cited in official **UN Special Rapporteur reports**
-
----
-
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,svelte,vue,tailwind,postgres,redis,docker,aws,githubactions,nodejs,js,python&theme=dark&perline=7" />
-  </a>
-</p>
 
 <details>
 <summary><b>Full breakdown</b></summary>
+
 <br/>
 
-| Area | Technologies |
-|------|-------------|
+| | |
+|---|---|
 | **Languages** | Go, TypeScript, JavaScript, Python |
-| **Frontend** | Svelte/SvelteKit, Vue, Tailwind CSS, Vitest, Playwright |
-| **Backend** | Gin, Node.js, REST API, Microservices, Event-driven architecture |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-| **Cloud & Infra** | AWS, Docker, Nginx, GitHub Actions, CI/CD |
-| **Observability** | Grafana, Prometheus, Structured logging |
+| **Frontend** | Svelte / SvelteKit, Vue, Tailwind, Vitest, Playwright |
+| **Backend** | Gin, Node.js, REST APIs, microservices, event-driven architecture |
+| **Data** | PostgreSQL, Redis, MongoDB |
+| **Infrastructure** | AWS, Docker, Nginx, GitHub Actions, CI/CD |
+| **Observability** | Grafana, Prometheus, structured logging |
 
 </details>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-phi-tawny-39.vercel.app/api?username=imlargo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&theme=tokyonight&text_color=C384FF&hide_border=true" />
-</div>
-
-<div align="center" style="margin-top:16px;">
-  <img src="https://github-readme-stats-phi-tawny-39.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=35&hide_border=true" />
-</div>
+<br/>
 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/imlargo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://imlargo.dev">
-    <img src="https://img.shields.io/badge/Portfolio-BC70FF?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:jclargob@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<sub>Building [Kora Studio](https://kora.imlargo.dev) · Medellín, Colombia · Open to remote</sub>
+
 </div>
