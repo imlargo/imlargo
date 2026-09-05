@@ -65,6 +65,16 @@ Also contributing to [shadcn/ui](https://ui.shadcn.com) (Svelte and Vue ports), 
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats-phi-tawny-39.vercel.app/api?username=imlargo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&theme=tokyonight&text_color=C384FF&hide_border=true" />
+</div>
+
+<div align="center" style="margin-top:16px;">
+  <img src="https://github-readme-stats-phi-tawny-39.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=35&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
 
 <sub>Building [Kora Studio](https://kora.imlargo.dev) · Medellín, Colombia · Open to remote</sub>
 
