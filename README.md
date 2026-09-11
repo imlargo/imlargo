@@ -4,10 +4,9 @@
 
 **Senior Software Engineer** · Go · TypeScript · Svelte
 
-Founder at [Kora Studio](https://kora.imlargo.dev) · Medellín, Colombia
+Frontend Tech Lead at Unergy · Medellín, Colombia
 
 [![Website](https://img.shields.io/badge/imlargo.dev-0d0d0d?style=for-the-badge)](https://imlargo.dev)
-[![Kora Studio](https://img.shields.io/badge/Kora_Studio-0d0d0d?style=for-the-badge)](https://kora.imlargo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imlargo)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jclargob@gmail.com)
 
@@ -20,8 +19,6 @@ I build systems that go to production and stay there. **20+ shipped, all still r
 Most of what I publish here comes from that: patterns pulled out of real systems, cleaned up, and put back into the ones that needed them. I don't design abstractions in isolation. If a library here exists, it's because I needed it three times first.
 
 I care about small surfaces, sane defaults, and code that reads well six months later. Go on the backend, Svelte on the frontend, and a strong preference for owning the whole thing rather than a slice of it.
-
-Founder at **[Kora Studio](https://kora.imlargo.dev)**, where I build custom software for companies across Colombia.
 
 <br/>
 
@@ -83,6 +80,6 @@ Also contributing to [shadcn/ui](https://ui.shadcn.com) (Svelte and Vue ports), 
 
 <div align="center">
 
-<sub>Building [Kora Studio](https://kora.imlargo.dev) · Medellín, Colombia · Open to remote</sub>
+<sub>Frontend Tech Lead @ Unergy · Medellín, Colombia · Open to remote</sub>
 
 </div>
