@@ -4,8 +4,6 @@
 
 **Senior Software Engineer** · Go · TypeScript · Svelte
 
-Frontend Tech Lead at Unergy · Medellín, Colombia
-
 [![Website](https://img.shields.io/badge/imlargo.dev-0d0d0d?style=for-the-badge)](https://imlargo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imlargo)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jclargob@gmail.com)
@@ -85,6 +83,6 @@ Also contributing to [shadcn/ui](https://ui.shadcn.com) (Svelte and Vue ports), 
 
 <div align="center">
 
-<sub>Frontend Tech Lead @ Unergy · Medellín, Colombia · Open to remote</sub>
+<sub>Senior Software Engineer · Medellín, Colombia · Open to remote</sub>
 
 </div>
