@@ -25,10 +25,15 @@ I care about small surfaces, sane defaults, and code that reads well six months 
 ## What I'm building
 
 **[medusa](https://github.com/imlargo/medusa)** 🪼 · Batteries-included Go framework for modern backends
+
 **[coral](https://github.com/imlargo/coral)** 🪸 · Svelte component layer on top of shadcn, composed and ready to use
+
 **[air](https://github.com/imlargo/air)** · Tiny, modern HTTP client for TypeScript, built on native fetch
+
 **[sse](https://github.com/imlargo/sse)** · Server-Sent Events for Go
+
 **[gleam-webpush](https://github.com/imlargo/gleam-webpush)** · Web Push with encryption and VAPID for the Gleam ecosystem
+
 **[pegaso](https://pegaso.imlargo.dev)** · Course scheduling platform, 6,200+ users through organic adoption
 
 Also contributing to [shadcn/ui](https://ui.shadcn.com) (Svelte and Vue ports), [Gin](https://github.com/gin-gonic/gin), and Svelte ecosystem libraries. Contributor to ODPI Observatorio, a human rights data platform cited in UN Special Rapporteur reports.
